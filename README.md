@@ -14,8 +14,17 @@ $x = 3^2$
 | --- | --- |:--: |
 | This is a test. | X | X |
 
-47. One
+1. One
 47. Two
 
 [Google](https://google.com)
+
 ![guinea pig](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/George_the_amazing_guinea_pig.jpg/800px-George_the_amazing_guinea_pig.jpg)
+
+<hr>
+
+[&#128279; permalink](https://dcpetty.github.io/first/) and [&#128297; repository](https://github.com/dcpetty/first/tree/) for this page.
+
+<style>
+  img { height: 50%; margin: auto; }
+</style>
