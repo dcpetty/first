@@ -26,7 +26,8 @@
 
 [&#128279; permalink](https://dcpetty.github.io/first/) and [&#128297; repository](https://github.com/dcpetty/first/) for this page.
 
+<!-- CSS to change <h1> color and size and center "pig" image -->
 <style>
-  h1 { color: rebeccapurple; } /* change <h1> color */
-  [alt ~= "pig"] { width: 50%; display: block; margin: auto; } /* size and center "pig" image */
+  h1 { color: rebeccapurple; }
+  [alt ~= "pig"] { width: 50%; display: block; margin: auto; }
 </style>
