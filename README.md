@@ -8,14 +8,14 @@
 
 <!-- COMMENT -->
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | :--: |
-| This is a test. | Another&hellip; | Another&hellip; |
+| Column Header 1 | Column Header 2 | Column Header 3 |
+| :-- | --: | :--: |
+| This is a test&hellip; | Another&hellip; | Another&hellip; |
 
 1. One
 47. Two
 
-## LaTeX mathematics-mode expressionss
+## LaTeX mathematics-mode expressions
 
 - On github.com `$y = mx + b$` renders properly as: $y = mx + b$.
 - On github.io `https://latex.codecogs.com/png.latex?\dpi{150}y=mx+b` renders through Codecogs as: ![y=mx+b](https://latex.codecogs.com/png.latex?\dpi{150}y=mx+b)
@@ -27,5 +27,5 @@
 [&#128279; permalink](https://dcpetty.github.io/first/) and [&#128297; repository](https://github.com/dcpetty/first/) for this page.
 
 <style>
-  [attribute ~= "pig"] { width: 50%; display: block; margin: auto; }
+  [alt ~= "pig"] { width: 50%; display: block; margin: auto; }
 </style>
