@@ -23,8 +23,8 @@ $x = 3^2$
 
 <hr>
 
-[&#128279; permalink](https://dcpetty.github.io/first/) and [&#128297; repository](https://github.com/dcpetty/first/tree/) for this page.
+[&#128279; permalink](https://dcpetty.github.io/first/) and [&#128297; repository](https://github.com/dcpetty/first/) for this page.
 
 <style>
-  img { height: 50%; margin: auto; }
+  img { width: 50%; display: block; margin: auto; }
 </style>
