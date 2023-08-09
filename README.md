@@ -1,6 +1,6 @@
 # first
 
-**This is a sample repo!**
+**This is a sample repo!** And now I made a change.
 
 - This is first
   - Indent
