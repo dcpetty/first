@@ -18,7 +18,7 @@
 ## LaTeX mathematics-mode expressionss
 
 - On github.com `$y = mx + b$` renders properly as: $y = mx + b$.
-- On github.io `https://latex.codecogs.com/png.latex?\dpi{150}y=mx+b` renders through Codecogs as: ![y=mx+b](https://latex.codecogs.com/png.latex?\dpi{150}y=mx+b)
+- On github.io `https://latex.codecogs.com/png.latex?y=mx+b` renders through Codecogs as: ![y=mx+b](https://latex.codecogs.com/png.latex?y=mx+b)
 
 [Google](https://google.com) ![guinea pig](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/George_the_amazing_guinea_pig.jpg/800px-George_the_amazing_guinea_pig.jpg)
 
