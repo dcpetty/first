@@ -1,6 +1,6 @@
 # first
 
-**This is a sample repo!** And now I made a change.
+**This is a sample repo created for [https://bit.ly/hgse-github-intro](https://bit.ly/hgse-github-intro).**
 
 - This is first
   - Indent
