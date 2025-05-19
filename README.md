@@ -41,6 +41,7 @@ The following basic `.gitignore` prefix is a useful starting point (and includes
 *.drjava
 *.gpj
 *.iml
+*.ipr
 *.userlibraries
 .project
 .classpath
