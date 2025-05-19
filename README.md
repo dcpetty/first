@@ -40,13 +40,14 @@ The following basic `.gitignore` prefix is a useful starting point (and includes
 *.bluej
 *.drjava
 *.gpj
-*.eml
+*.iml
 *.userlibraries
 .project
 .classpath
 
 # IDE directories #
 ###################
+.idea/
 .settings/
 bin/
 
