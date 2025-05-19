@@ -11,13 +11,14 @@
 *.bluej
 *.drjava
 *.gpj
-*.eml
+*.iml
 *.userlibraries
 .project
 .classpath
 
 # IDE directories #
 ###################
+.idea/
 .settings/
 bin/
 
