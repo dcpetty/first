@@ -12,6 +12,7 @@
 *.drjava
 *.gpj
 *.iml
+*.ipr
 *.userlibraries
 .project
 .classpath
